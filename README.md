@@ -7,7 +7,7 @@ Welcome to this repository!
 
 This repository contains the source code and analysis pipelines used in our research article. It provides the **10 processing pipelines** compared in our study, allowing for reproduction of our results on Time Series (Average) and GLM (Beta values) analyses.
 
-### 📄 Reference Article
+### Reference Article
 
 If you use this code or our findings, please cite our paper:
 
@@ -18,7 +18,7 @@ If you use this code or our findings, please cite our paper:
 
 ---
 
-## 🛠️ Prerequisites & Requirements
+## Prerequisites & Requirements
 
 To run these scripts successfully, you **must** have the following toolboxes installed in your MATLAB environment:
 
@@ -31,7 +31,7 @@ To run these scripts successfully, you **must** have the following toolboxes ins
 
 ---
 
-## 📂 Repository Structure
+## Repository Structure
 
 The project is organized into two main directories corresponding to the two types of analyses performed:
 
@@ -51,7 +51,7 @@ Contains scripts for the 10 pipelines using the General Linear Model (GLM).
 
 ---
 
-## ⚙️ Installation: Specific Steps for GLM
+## Installation: Specific Steps for GLM
 
 🚨 **ATTENTION: Manual Configuration Required** 🚨
 
@@ -73,7 +73,7 @@ The folder `GLM/GLM_custom_function` contains modified `.m` files (starting with
 
 ---
 
-📚 **Toolbox Citation** 
+**Toolbox Citation** 
 
 This work relies heavily on the NIRS Brain AnalyzIR Toolbox. Please also cite the original work of the toolbox developers:
 
