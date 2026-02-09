@@ -14,6 +14,7 @@ If you use this code or our findings, please cite our paper:
 > **Optimizing short-channel regression in fNIRS: an empirical evaluation with ecological audiovisual stimuli**
 >
 > *Y. Lemaire, P. Barone, K. Strelnikov, O. Deguine, A. Caclin, J. Ginzburg.*
+> Published in Neurophotonics
 
 ---
 
