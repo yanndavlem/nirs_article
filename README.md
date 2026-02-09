@@ -67,9 +67,9 @@ The folder `GLM/GLM_custom_function` contains modified `.m` files (starting with
 ```matlab
 % Example Path
 ...\your_path_to\nirs-toolbox-master\+nirs\+modules\
-
-    Without this step, Main_GLM.m will fail to find the custom analysis modules.
 ```
+    Without this step, Main_GLM.m will fail to find the custom analysis modules.
+
 ---
 
 📚 **Toolbox Citation** 
