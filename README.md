@@ -1,4 +1,4 @@
-# fNIRS Analysis Pipelines (MATLAB) 🧠
+# fNIRS Analysis Pipelines (MATLAB) 
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 [![Language](https://img.shields.io/badge/Matlab-R202X-orange.svg)](https://www.mathworks.com/products/matlab.html)
